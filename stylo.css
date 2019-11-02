@@ -1,0 +1,40 @@
+body{
+	background-color: black;
+}
+body:hover{
+	background-color: white;
+}
+h4{
+	text-align: center;
+	background-color: black;
+	left: 35%;
+	position: fixed;
+	width: 450px;
+	top: 5%;
+	color: blue;
+	font-family: cursive;
+	padding: 40px;
+	border: 2px solid white;
+	opacity: .4;
+	border-radius: 15%;
+}
+p{
+	top: 50%;
+	left: 43%;
+	position: fixed;
+	color: black;
+	font-size: 0.2px;
+	font-family: algerian;
+	padding: 80px;
+	opacity: .5;
+}
+p:hover{
+	color: black;
+	background-color: green;
+	border: 2px solid green;
+	transition: all ease-in-out 250ms;
+	border-radius: 15%;
+	font-size: 30px;
+}
+	
+
